@@ -5,5 +5,3 @@ Function:
 Attempt to pack provided data into the smallest n-dimensional array of blocks and rotate/shift blocks around, scrambling data based on a known pseudo-random cycle.
 
 Requires NumPy library.
-
-See source file for liscense.
